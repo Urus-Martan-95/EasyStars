@@ -1,0 +1,184 @@
+.head_block {
+  background-image: url(https://thumb.tildacdn.com/tild3830-3632-4937-b961-393936303931/-/format/webp/Frame_1.png);
+}
+.col-5,.logo-container{
+  height: 60px;
+  margin: 10px;
+}
+.top-menu{
+  width: 1150px;
+  padding: 15px 0 0 15px;
+  margin: 0px;
+  position: fixed;
+  z-index: 990;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.logo-container{
+  margin-left: 40px;
+}
+.img-logo{
+  width: 230px;
+  height: auto;
+}
+.title_head{
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Roboto',Arial,sans-serif;
+  line-height: 1.25;
+  font-weight: 600;
+}
+.title-top1{
+  margin-top: 125px
+}
+.subtitle{
+  text-align: center;
+  color: #ffffff;
+  font-size: 26px;
+  font-family: 'Roboto',Arial,sans-serif;
+}
+.menu_item{
+  padding-left: 0;
+  margin-top: 25px;
+}
+.menu_item >li{
+  width: auto;
+  font-family: 'Roboto',Arial,sans-serif;
+  font-size: 14px;
+  display: inline-block;
+  padding-left: 15px;
+  margin-right: 35px;
+}
+.menu_item a {
+  color: white;
+  text-decoration: none;
+}
+.menu_item a:hover {
+  color: white;
+}
+.header_from_vid{
+  margin: 45px 0;
+}
+.body_block >.row-container{
+  background-color: #231f20;
+  padding-top: 30px;
+  padding-bottom: 90px;
+}
+.block-body-menu,.block-body-menu-1, .block-body-menu-2,.block-body-menu-3,.block-body-menu-4,.block-body-menu-5,.block-body-menu-6,.block-body-menu-7,.block-body-menu-8,.block-body-menu-9,.block-body-menu-10,.block-body-menu-11,.block-body-menu-12,.block-body-menu-13{
+  background-position: center center;
+  position: block;
+  background-repeat: no-repeat;
+  background-image: url(https://thumb.tildacdn.com/tild3937-6462-4238-a130-393032616163/-/resize/300x300/-/format/webp/photo_2020-09-03_20-.jpg);
+  height: 300px;
+}
+.block-body-menu:hover, .block-body-menu-1:hover, .block-body-menu-2:hover,.block-body-menu-3:hover,.block-body-menu-4:hover,.block-body-menu-5:hover,.block-body-menu-6:hover,.block-body-menu-7:hover,.block-body-menu-8:hover,.block-body-menu-9:hover,.block-body-menu-10:hover,.block-body-menu-11:hover,.block-body-menu-12:hover,.block-body-menu-13:hover{
+  transition: 1s;
+  transform: scale(1.1);
+}
+.block-body-menu-1{
+  background-image: url(https://thumb.tildacdn.com/tild6431-3533-4731-b030-373961623939/-/resize/300x300/-/format/webp/photo_2020-09-03_20-.jpg);
+}
+.block-body-menu-2{
+  background-image: url(https://thumb.tildacdn.com/tild6366-6135-4163-a263-636366663964/-/resize/300x300/-/format/webp/photo_2020-09-03_20-.jpg);
+}
+.block-body-menu-3{
+  background-image: url(https://thumb.tildacdn.com/tild6533-3361-4439-a135-386236343031/-/resize/300x300/-/format/webp/photo_2020-09-03_20-.jpg);
+}
+.block-body-menu-4{
+  background-image: url(https://thumb.tildacdn.com/tild3461-3536-4530-b432-303562326535/-/resize/300x300/-/format/webp/photo_2020-09-03_20-.jpg);
+}
+.block-body-menu-5{
+  background-image: url(https://thumb.tildacdn.com/tild3962-3831-4330-a533-313465306130/-/resize/300x300/-/format/webp/photo_2020-09-05_15-.jpg);
+}
+.block-body-menu-6{
+  background-image: url(https://thumb.tildacdn.com/tild6631-3435-4032-a531-626661346633/-/resize/300x300/-/format/webp/photo_2020-09-03_20-.jpg);
+}
+.block-body-menu-7{
+  background-image: url(https://thumb.tildacdn.com/tild3630-3636-4430-b534-376161363932/-/resize/300x300/-/format/webp/photo_2020-09-05_15-.jpg);
+}
+.block-body-menu-8{
+  background-image: url(https://thumb.tildacdn.com/tild6433-3430-4861-b666-646531343862/-/resize/300x300/-/format/webp/photo_2020-09-09_14-.jpg);
+}
+.block-body-menu-9{
+  background-image: url(https://thumb.tildacdn.com/tild3564-6637-4537-b234-393832636161/-/resize/300x300/-/format/webp/photo_2020-09-07_20-.jpg);
+}
+.block-body-menu-10{
+  background-image: url(https://thumb.tildacdn.com/tild6361-3237-4734-b363-313863646332/-/resize/300x300/-/format/webp/photo_2020-09-03_18-.jpg);
+}
+.block-body-menu-11{
+  background-image: url(https://thumb.tildacdn.com/tild3631-3035-4431-b234-643333653237/-/resize/300x300/-/format/webp/photo_2020-09-03_21-.jpg);
+}
+.block-body-menu-12{
+  background-image: url(https://thumb.tildacdn.com/tild3231-3535-4339-a339-373634353335/-/resize/300x300/-/format/webp/photo_2020-09-29_14-.jpg);
+}
+.block-body-menu-13{
+  background-image: url(https://thumb.tildacdn.com/tild3864-6262-4638-a138-313430363937/-/resize/300x300/-/format/webp/_.jpg);
+}
+.news-list-image{
+  max-width: 260px;
+}
+.title-news{
+  text-align: center;
+  color: #000000;
+  font-size: 44px;
+  font-family: 'Roboto',Arial,sans-serif;
+  line-height: 1.55;
+  font-weight: 600;
+}
+.news-EasyStars{
+  width: 250px;
+}
+.news{
+  margin-top: 100px;
+}
+.title-news-colob{
+  text-align: center;
+  color: #8f0000;
+  font-size: 22px;
+  font-family: 'Roboto',Arial,sans-serif;
+  line-height: 1.55;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin: 30px 30px 0;
+}
+.block-title{
+  width: 565px;
+  margin: auto;
+  color: #000000;
+  font-size: 17px;
+  font-family: 'Roboto',Arial,sans-serif;
+  line-height: 1.55;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+#tn-aitom{
+  margin: auto;
+  max-width: 291px;
+  margin-top: 20px;
+}
+.title-text{
+  color: #000000;
+  font-size: 14px;
+  font-family: 'Roboto',Arial,sans-serif;
+  line-height: 1.55;
+  font-weight: 300;
+}
+.bold-font{
+  font-weight: 600;
+}
+.footer_block{
+  background-color: #231f20;
+  margin-top: 50px;
+}
+.footer-title{
+  text-align: center;
+}
+.footer-title h2{
+  color: #ffffff;
+  padding-top: 40px;
+  font-family: 'Roboto',Arial,sans-serif;
+  line-height: 1.55;
+  font-weight: 600;
+}
+.countries-img{
+  width: 1160px;
+}
